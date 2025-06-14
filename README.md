@@ -3,10 +3,10 @@
 
 # 🍝 General information
 Version: 10. Mandatory part only.
-Write and tested on MacOS.
+Written and tested on MacOS.
 
 ## 🍽 Features
-- *Simple implementation*: a saw a lot of philo make overcomplicated implementation, I try to keep my code simple as possible.
+- *Simple implementation*: I saw a lot of Philo make overcomplicated implementations, I tried to keep my code as simple as possible.
 - *Clean code*: with comments for most important functions.
 - *Security*: all system calls are checked for errors and the program is properly terminated if an error is detected (that was painful to implement without `exit()` function).
 
